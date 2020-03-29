@@ -81,7 +81,7 @@ Your output should adhere to the following conditions.
 ### Expected Output
 Your final output should look like this
 
-![Superwar](doc/superwars-css.png)
+![Superwar](https://github.com/FACEPrep-ProGrad/project-11-superwars-css/raw/master/doc/superwars-css.png)
 
 
 Happy Coding ProGrad ❤️
