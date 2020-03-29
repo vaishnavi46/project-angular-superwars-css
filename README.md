@@ -63,21 +63,21 @@ To generate the starter code, follow the steps given below
     - open the ubuntu or cmd terminal or inside the vscode editor
     - run the command following command
     - ```ng serve --open or ng serve -o```
-```
 
 ### Progression : Build the arena & Have the players ready
 
-1. Create a html document `index.html`.
-2. Using `CSS Grid`, create 3 columns one each for Heroes, score and Villains in same order. Try to make it responsive and find the right size for each grid.
+1. Go to src/app.component.html document.
+2. Inside the app.component.css, using `CSS Grid`, create 3 columns one each for Heroes, score and Villains in same order. Try to make it responsive and find the right size for each grid.
 3. Add players to the left and right grids. Use the middle grid to showcase the scores.
-4. Style the elements in `style.css`.
+4. Style the general elements in `src/style.css`.
+5. Add component specific to styles to app.component.css
 
 ### Conditions
 
 Your output should adhere to the following conditions.
 * Heroes should be on your left grid and Villains on the right grid.
 * Heroes should be justified to the right and Villains to the left.
-* Each player should have an image, name and strength (Number). The images of the super heroes are provided in the "images" folder.
+* Each player should have an image, name and strength (Number). The images of the super heroes are provided in the "src/assets" folder.
 * Name and strength should be center aligned.
 * Make the players equally spaced apart.
 
