@@ -12,8 +12,6 @@ Lucus always loves protagonists like most of us. But Dustin is quite crazy, he l
 
 Okay, let us explain. They are going to facilitate the ultimate war between Super Heroes and Super Villains. As they are new to these technologies, they need a **ProGrad** to help them build this game.
 
-In this lesson we are going to work with Angular. The goal here is to work on a small projects where you can practice the concepts we've learned thus far.
-
 ## Learning Goals
 
 After this lesson, you will be able to:
@@ -44,7 +42,6 @@ In the pull request name, add your Prograd id, name, and last name separated by 
 
 You need to generate the starter code and fill it with the necessary code to satisfy the requirements described below.
 
-
 ## Starter Code
 
 To generate the starter code, follow the steps given below
@@ -64,7 +61,7 @@ To generate the starter code, follow the steps given below
     - run the command following command
     - ```ng serve --open or ng serve -o```
 
-### Progression : Build the arena & Have the players ready
+### Progression : Build the arena & have the players ready
 
 1. Go to src/app.component.html document.
 2. Inside the app.component.css, using `CSS Grid`, create 3 columns one each for Heroes, score and Villains in same order. Try to make it responsive and find the right size for each grid.
