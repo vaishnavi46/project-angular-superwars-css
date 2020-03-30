@@ -68,6 +68,7 @@ To generate the starter code, follow the steps given below
 3. Add players to the left and right grids. Use the middle grid to showcase the scores.
 4. Style the general elements in `src/style.css`.
 5. Add component specific to styles to app.component.css
+6. Use the same images given in sprint-1 project builder - superwars css.
 
 ### Conditions
 
